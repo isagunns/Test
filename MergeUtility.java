@@ -12,7 +12,7 @@ public class MergeUtility {
         int x = 0;
         int y = 0;
         int z = 0;
-        int counter = 0;
+        int counters = 0;
 
         while (x < len1 && y < len2) {
             if (array1[x] < array2[y]) {
